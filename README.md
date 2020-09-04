@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋🏼, I'm Efecan Altay</h1>
+<h1 align="center">Hi 👋🏼, I'm Efecan</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=efecanaltay" alt="efecanaltay" /> </p>
-<h3 align="center"> 🧑🏽‍ I'm Computer Engineer from Turkey 💻</h3>
+<p>
+<h3 align="center"> 🧑🏽‍ I'm Computer Engineer from Turkey<img  src="https://flagpedia.net/data/flags/emoji/google/160x160/tr.png" alt="dotnet" width="25" height="25"/> 💻 </h3>
+</p>
 <h3 align="center">I ❤️love 📲mobile and 🕹️game development</h3>
 <h3 align="center">You can see my favorite on icons</h3>
 <p align="center"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
