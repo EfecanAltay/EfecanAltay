@@ -3,7 +3,7 @@
 <p>
 <h3 align="center"> 🧑🏽‍ I'm Computer Engineer from Turkey<img  src="https://flagpedia.net/data/flags/emoji/google/160x160/tr.png" alt="dotnet" width="25" height="25"/> 💻 </h3>
 </p>
-<h3 align="center">I ❤️love 📲mobile and 🕹️game development</h3>
+<h3 align="center">I ❤️love 🕸️Web, 📲Mobile and 🕹️Game development</h3>
 <h3 align="center">You can see my favorite on icons</h3>
 <p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
