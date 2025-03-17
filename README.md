@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📫 How to reach me
 
-- LinkedIn: [efecanaltay](https://www.linkedin.com/in/efecanaltay/)
-- Twitter: [@efecanaltay](https://twitter.com/efecanaltay)
-- Email: efecanaltay@example.com
+- LinkedIn: [EfecanAltay](https://www.linkedin.com/in/efecan-altay-295ab087/)
+- Twitter: [@efecanaltay](https://x.com/dev_efecan)
+- Email: efecanaltay.dev@gmail.com
 
 Feel free to reach out if you have any questions or just want to connect!
