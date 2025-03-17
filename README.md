@@ -8,6 +8,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🔧 Technologies & Tools
 
+![C# Badge](https://img.shields.io/badge/C%23-%E2%88%9E-239120?logo=c-sharp&logoColor=white)
+![Badge](https://img.shields.io/badge/.NET-%E2%88%9E-purple)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
