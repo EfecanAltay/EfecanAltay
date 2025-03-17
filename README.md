@@ -1,8 +1,8 @@
 # Hi there, I'm Efecan Altay! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/EfecanAltay?label=Follow&style=social)](https://github.com/EfecanAltay?tab=followers)
-[![Linkedin: efecanaltay](https://img.shields.io/badge/-efecanaltay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/efecanaltay/)](https://www.linkedin.com/in/efecanaltay/)
-[![Twitter: efecanaltay](https://img.shields.io/twitter/follow/efecanaltay?style=social)](https://twitter.com/efecanaltay)
+[![Linkedin: efecanaltay](https://img.shields.io/badge/-efecanaltay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/efecan-altay-295ab087/)](https://www.linkedin.com/in/efecan-altay-295ab087/)
+[![Twitter: efecanaltay](https://img.shields.io/twitter/follow/efecanaltay?style=social)](https://x.com/dev_efecan)
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies.
 
