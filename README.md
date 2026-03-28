@@ -1,35 +1,74 @@
-# Hi there, I'm Efecan Altay! 👋
+# 👋 Hi, I'm Efecan Altay
 
-[![GitHub followers](https://img.shields.io/github/followers/EfecanAltay?label=Follow&style=social)](https://github.com/EfecanAltay?tab=followers)
-[![Linkedin: efecanaltay](https://img.shields.io/badge/-efecanaltay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/efecan-altay-295ab087/)](https://www.linkedin.com/in/efecan-altay-295ab087/)
-[![Twitter: efecanaltay](https://img.shields.io/twitter/follow/efecanaltay?style=social)](https://x.com/dev_efecan)
+<p align="center">
+  <a href="https://github.com/EfecanAltay">
+    <img src="https://img.shields.io/github/followers/EfecanAltay?label=Follow&style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/efecan-altay-295ab087/">
+    <img src="https://img.shields.io/badge/LinkedIn-Efecan%20Altay-blue?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="https://x.com/dev_efecan">
+    <img src="https://img.shields.io/twitter/follow/dev_efecan?style=social" />
+  </a>
+</p>
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies.
+---
 
-## 🔧 Technologies & Tools
+## 🚀 About Me
 
-![C# Badge](https://img.shields.io/badge/C%23-%E2%88%9E-239120?logo=c-sharp&logoColor=white)
-![Badge](https://img.shields.io/badge/.NET-%E2%88%9E-purple)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+Senior Full-Stack Engineer specialized in **.NET, React, and Microservices Architecture**.
 
-## 📈 GitHub Stats
+I build **scalable, distributed systems** and currently working on:
 
-![EfecanAltay's GitHub stats](https://github-readme-stats.vercel.app/api?username=EfecanAltay&show_icons=true&hide=contribs,prs&theme=radical)
+### 🧠 TheFoodHero
+AI-powered SaaS platform for dietitians
 
-## 🔥 Top Languages
+- Microservices Architecture (Node.js + Redis + Consul)
+- Event-driven systems (Redis Streams)
+- Real-time communication (WebRTC + Socket.io)
+- AI-based diet analysis *(in progress)*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfecanAltay&layout=compact&theme=radical)
+---
 
-## 📫 How to reach me
+## 🧠 Engineering Focus
 
-- LinkedIn: [EfecanAltay](https://www.linkedin.com/in/efecan-altay-295ab087/)
-- Twitter: [@efecanaltay](https://x.com/dev_efecan)
-- Email: efecanaltay.dev@gmail.com
+- Microservices & Distributed Systems
+- Domain-Driven Design (DDD)
+- API Design (REST / Internal RPC)
+- Event-Driven Architecture
+- System Design & Scalability
+- AI-powered product thinking
 
-Feel free to reach out if you have any questions or just want to connect!
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js" />
+</p>
+
+### DevOps & Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+---
+
+## 🏗️ Architecture Mindset
+
+```text
+→ Build scalable systems
+→ Design loosely coupled services
+→ Optimize performance & reliability
+→ Think in systems, not features
